@@ -1,0 +1,26 @@
+@import "vars";
+@import "libs";
+@import "fonts";
+
+
+.header__slider{
+  &__item{
+    height: 100vh;
+    background-image: url(../img/headerbg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+@import "media";
